@@ -1,3 +1,3 @@
 # Invasion
 O jogo tem como objetivo destruir os aliens.
-ultilizando as setas para  se mover e a tecla de espaço para a atirar
+Ultilizando as setas para se mover e a tecla de espao para atirar
